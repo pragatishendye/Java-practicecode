@@ -1,4 +1,7 @@
 package codingexercises;
+/* This program tests the NumberPalindrome program.
+   Created by Pragathi Shendye
+*/
 
 public class TestNumberPalindrome {
 
