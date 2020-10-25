@@ -2,6 +2,7 @@ package codingexercises2;
 
 /* This method returns the sum of all even digits present in a number
    passed as an argument to it.
+   Created by Pragathi Shendye
  */
 
 public class EvenDigitSum {
