@@ -1,7 +1,8 @@
 package codingexercises2;
 
 /* This program gives the sum of the first and last
-   digits of a given integer number.
+   digits of a given integer number of any length.
+   Created by Pragathi Shendye
  */
 
 public class FirstLastDigitSum {
