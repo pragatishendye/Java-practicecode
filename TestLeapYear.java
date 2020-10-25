@@ -1,5 +1,7 @@
 package codingexercises;
-
+/* This program tests the LeapYear program.
+Created by Pragathi Shendye
+*/
 public class TestLeapYear {
 
     public static void main(String[] args) {
