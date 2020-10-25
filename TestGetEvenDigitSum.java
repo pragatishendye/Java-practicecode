@@ -1,5 +1,7 @@
 package codingexercises2;
-
+/* This program tests the GetEvenDigitSum program.
+  Created by Pragathi Shendye
+*/
 public class TestGetEvenDigitSum {
 
     public static void main(String[] args) {
