@@ -1,4 +1,7 @@
 package codingexercises;
+/* This program tests the NumberOfDaysinMonth program.
+ * Created by Pragathi Shendye
+*/
 
 public class TestNumberOfDays {
 
