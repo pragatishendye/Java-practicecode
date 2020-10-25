@@ -1,7 +1,9 @@
 package codingexercises;
 
 /* This program prints the number of days in a given month of
- a certain year. */
+ * a certain year. 
+ * Created by Pragathi Shendye
+ */
 
 public class NumberOfDaysInMonth {
 
