@@ -2,6 +2,7 @@ package codingexercises;
 
 /* This program calculates the sum of all odd
    numbers within a given range.
+   Created by Pragathi Shendye
  */
 
 public class SumOddRange {
