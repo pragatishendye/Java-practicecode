@@ -3,6 +3,7 @@ package codingexercises;
 /**
  * This program converts the given kilobytes into
  * megabytes and kilobytes
+ * Created by Pragathi Shendye
  */
 
 public class MegaBytesConverter {
