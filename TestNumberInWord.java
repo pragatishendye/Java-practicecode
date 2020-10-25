@@ -1,5 +1,7 @@
 package codingexercises;
-
+/* This program tests the NumberInWord program.
+ * Created by Pragathi Shendye
+*/
 public class TestNumberInWord {
 
     public static void main(String[] args) {
