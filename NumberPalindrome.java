@@ -2,6 +2,7 @@ package codingexercises;
 
 /* This program checks if a given integer number
    is a palindrome or not.
+   Created by Pragathi Shendye
  */
 
 public class NumberPalindrome {
