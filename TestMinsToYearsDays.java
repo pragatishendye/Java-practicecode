@@ -1,5 +1,8 @@
 package codingexercises;
 
+/* This program tests the MinutesToYearDays program.
+ * Created by Pragathi Shendye
+*/
 public class TestMinsToYearsDays {
 
     public static void main(String[] args) {
