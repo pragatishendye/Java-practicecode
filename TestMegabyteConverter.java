@@ -1,5 +1,8 @@
 package codingexercises;
 
+/* This program tests the MegaBytesConverter program.
+ * Created by Pragathi Shendye
+*/
 public class TestMegabyteConverter {
 
     public static void main(String[] args) {
