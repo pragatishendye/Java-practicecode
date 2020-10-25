@@ -1,5 +1,9 @@
 package codingexercises2;
 
+/* This program tests the FirstLastDigit program.
+Created by Pragathi Shendye
+*/
+
 public class TestFirstLastDigit {
 
     public static void main(String[] args) {
