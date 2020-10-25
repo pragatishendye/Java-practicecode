@@ -1,6 +1,9 @@
 package codingexercises;
 
-// This program matches a given integer to a word and prints it.
+/* This program matches a given integer to a word and prints it. Displays the usage
+ * of switch statement.
+ * Created by Pragathi Shendye
+ */
 
 public class NumberInWord {
 
