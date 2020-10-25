@@ -1,5 +1,8 @@
 package codingexercises;
 
+/* This program tests the SumOddRange program.
+   Created by Pragathi Shendye
+*/
 public class TestSumOdd {
 
     public static void main(String[] args) {
