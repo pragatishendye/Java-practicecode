@@ -2,7 +2,7 @@ package codingexercises;
 
 /**
  * This program converts the given minutes into years
- * and days
+ * and days - Created by Pragathi Shendye
  */
 
 /* 1 hour = 60 minutes
