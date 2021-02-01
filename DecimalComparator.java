@@ -1,5 +1,5 @@
-package exercises;
-/* This program checks whether two given numbers are equal up to 3
+
+/* This program checks whether two given decimal numbers are equal up to 3
    decimal places. Returns true if they are equal, false otherwise.
    Created by Pragathi Shendye
  */
