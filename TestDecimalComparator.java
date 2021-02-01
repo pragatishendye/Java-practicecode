@@ -1,4 +1,4 @@
-package exercises;
+
 // This code tests the DecimalComparator program
 
 public class TestDecimalComparator {
